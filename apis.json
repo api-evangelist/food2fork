@@ -1,0 +1,45 @@
+{
+    "name": "Food2Fork",
+    "description": "Over 130,000 recipes indexed. Search by ingredients on http:\/\/t.co\/5O2yNQBfLh. Come join us and let's get cooking!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1725-food2fork.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "recipes"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/food2fork\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Food2Fork",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1725-food2fork.jpg",
+            "humanURL": "http:\/\/food2fork.com\/about\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/food2fork-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/food2fork-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Food2Fork"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/food2fork.com\/about\/api"
+        }
+    ]
+}
